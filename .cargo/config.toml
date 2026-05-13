@@ -1,0 +1,2 @@
+[alias]
+aarch64 = "zigbuild --release --target aarch64-unknown-linux-musl"
